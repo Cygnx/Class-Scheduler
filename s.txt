@@ -1,0 +1,34 @@
+
+RSVP Menu
+0. Done.
+1. Find by CRN.
+2. Find by subject.
+3. Add course.
+4. Remove course.
+Your choice (0 - 4): Please enter a CRN: SPA 003
+Tat Ross
+
+RSVP Menu
+0. Done.
+1. Find by CRN.
+2. Find by subject.
+3. Add course.
+4. Remove course.
+Your choice (0 - 4): Remove Course
+Please enter the SID of the student: Current courses: 57056 61703 60851 60860 
+Please enter the CRN: 
+RSVP Menu
+0. Done.
+1. Find by CRN.
+2. Find by subject.
+3. Add course.
+4. Remove course.
+Your choice (0 - 4): Please enter a CRN: SPA 003
+
+RSVP Menu
+0. Done.
+1. Find by CRN.
+2. Find by subject.
+3. Add course.
+4. Remove course.
+Your choice (0 - 4): 
